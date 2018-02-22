@@ -1,0 +1,27 @@
+{
+  "name": "alllo",
+  "version": "1.0.0",
+  "description": "wraper of lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nits-ravis/alllo.git"
+  },
+  "keywords": [
+    "Map",
+    "Reduce",
+    "Lodash"
+  ],
+  "author": "Ravi S Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nits-ravis/alllo/issues"
+  },
+  "homepage": "https://github.com/nits-ravis/alllo#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
